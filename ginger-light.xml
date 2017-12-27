@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="51805" name="Ginger light" modified="2017-12-26 16:08:04" author="Jose Bahamonde Cordeiro">
+    <searchResultIndication color="#CECCF7" />
+    <filteredSearchResultIndication color="#EFEFEF" />
+    <occurrenceIndication color="#00AF00" />
+    <writeOccurrenceIndication color="#F0D8A8" />
+    <findScope color="#B9B0B4" />
+    <sourceHoverBackground color="#EEEEEE" />
+    <singleLineComment color="#909090" />
+    <multiLineComment color="#909090" />
+    <commentTaskTag color="#7F9FBF" bold="true" />
+    <javadoc color="#3F5FBF" />
+    <javadocLink color="#3F3FBF" />
+    <javadocTag color="#7F9FBF" bold="true" />
+    <javadocKeyword color="#7F7F9F" />
+    <class color="#0C0C0C" />
+    <interface color="#0C0C0C" />
+    <method color="#0C0C0C" bold="false" />
+    <methodDeclaration color="#2E3436" bold="true" italic="false" />
+    <bracket color="#2E3436" />
+    <number color="#C70063" />
+    <string color="#006D00" bold="false" />
+    <operator color="#333333" />
+    <keyword color="#F34F29" bold="true" />
+    <annotation color="#646464" />
+    <staticMethod color="#2E3436" italic="true" />
+    <localVariable color="#6A3E3E" />
+    <localVariableDeclaration color="#6A3E3E" />
+    <field color="#0000C0" />
+    <staticField color="#0000C0" italic="true" />
+    <staticFinalField color="#0000C0" bold="true" italic="true" />
+    <deprecatedMember color="#000000" underline="false" strikethrough="true" />
+    <enum color="#000000" />
+    <inheritedMethod color="#2E3436" />
+    <abstractMethod color="#2E3436" />
+    <parameterVariable color="#6A3E3E" />
+    <typeArgument color="#333333" />
+    <typeParameter color="#333333" />
+    <constant color="#0000C0" bold="false" />
+    <background color="#FFFFFF" />
+    <currentLine color="#E8F2FE" />
+    <foreground color="#333333" />
+    <lineNumber color="#666666" />
+    <selectionBackground color="#EFEFFF" />
+    <selectionForeground color="#000066" />
+</colorTheme>
