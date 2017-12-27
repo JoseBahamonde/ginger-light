@@ -1,5 +1,5 @@
 # Ginger Light
-Tema para o editor de eclipse feito en http://www.eclipsecolorthemes.org.
+Tema para o editor de Eclipse feito en http://www.eclipsecolorthemes.org.
 [Páxina do tema](http://www.eclipsecolorthemes.org/?view=theme&id=51805)
 O obxetivo do tema e facilitar a lectura de código e usar cores que non queimen as córneas.
 
