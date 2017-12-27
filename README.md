@@ -3,7 +3,7 @@ Tema para o editor de eclipse feito en http://www.eclipsecolorthemes.org.
 [Páxina do tema](http://www.eclipsecolorthemes.org/?view=theme&id=51805)
 O obxetivo do tema e facilitar a lectura de código e usar cores que non queimen as córneas.
 
-## Installation
+## Instalación
 Hai dúas maneiras de instalalo:
 1. Descargar o arquivo ginger-light.epf e importar as preferencias en Eclipse.
 2. Instalar o plugin [Eclipse Color Theme](http://marketplace.eclipse.org/content/eclipse-color-theme) ou [DevStyle](https://www.genuitec.com/products/devstyle/)
