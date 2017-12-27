@@ -30,3 +30,6 @@ Usa as cores básicas do editor de Java de Eclipse coas seguintes modificacións
 + Chamadas a métodos estáticos: Uso un negro un pouco máis claro que o habitual para diferenciar a chamada dun método normal.
 
 + Xenéricos: En gris escuro para focalizar na clase e non no xenérico. Con este cambio teño dudas de se deixalo así ou volver a cor por defecto.
+
+## Previsualización
+![Ginger light theme](https://github.com/JoseBahamonde/ginger-light/blob/master/preview.png "Ginger ligth theme with DevStyle plugin")
