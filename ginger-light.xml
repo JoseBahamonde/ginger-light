@@ -2,7 +2,7 @@
 <colorTheme id="51805" name="Ginger light" modified="2017-12-26 16:08:04" author="Jose Bahamonde Cordeiro">
     <searchResultIndication color="#CECCF7" />
     <filteredSearchResultIndication color="#EFEFEF" />
-    <occurrenceIndication color="#00AF00" />
+    <occurrenceIndication color="#D1F8D3" />
     <writeOccurrenceIndication color="#F0D8A8" />
     <findScope color="#B9B0B4" />
     <sourceHoverBackground color="#EEEEEE" />
