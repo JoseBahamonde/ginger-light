@@ -15,8 +15,6 @@ Usa as cores básicas do editor de Java de Eclipse coas seguintes modificacións
 
 + Palabras clave: Copiei o color das palabras clave que usa o plugin [Clean Sheet](http://www.codeaffine.com/2015/11/04/clean-sheet-an-ergonomic-eclipse-theme-for-windows-10/). É un pouco máis suave que o que ten por defecto o Eclipse e non molesta tanto a vista.
 
-+ Fondo de línea actual: Unha cor gris, resalta moito máis a línea que se está editando.
-
 + Fondo de selección: Azul un pouco máis escuro e apagado. Axuda a focalizar no que se está seleccionando.
 
 + Declaracións de métodos: En negriña. Axuda a visualizar de forma global unha clase.
@@ -27,9 +25,7 @@ Usa as cores básicas do editor de Java de Eclipse coas seguintes modificacións
 
 + Strings: En verde. Non me gusta que teñan a mesma cor que as constantes.
 
-+ Chamadas a métodos estáticos: Uso un negro un pouco máis claro que o habitual para diferenciar a chamada dun método normal.
-
-+ Xenéricos: En gris escuro para focalizar na clase e non no xenérico. Con este cambio teño dudas de se deixalo así ou volver a cor por defecto.
++ Cor de texto por defecto: Negro cun pouco menos de saturación que o #000000
 
 ## Previsualización
 ![Ginger light theme](https://github.com/JoseBahamonde/ginger-light/blob/master/preview.png "Ginger ligth theme with DevStyle plugin")

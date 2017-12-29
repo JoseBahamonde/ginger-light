@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="51805" name="Ginger light" modified="2017-12-26 16:08:04" author="Jose Bahamonde Cordeiro">
-    <searchResultIndication color="#CECCF7" />
-    <filteredSearchResultIndication color="#EFEFEF" />
-    <occurrenceIndication color="#D1F8D3" />
+<colorTheme id="51805" name="Ginger light" modified="2017-12-29 09:32:02" author="Jose Bahamonde Cordeiro">
+    <searchResultIndication color="#0078D7" />
+    <filteredSearchResultIndication color="#FFFDD0" />
+    <occurrenceIndication color="#D4D4D4" />
     <writeOccurrenceIndication color="#F0D8A8" />
     <findScope color="#B9B0B4" />
-    <sourceHoverBackground color="#EEEEEE" />
+    <sourceHoverBackground color="#FFFDDD" />
     <singleLineComment color="#909090" />
     <multiLineComment color="#909090" />
     <commentTaskTag color="#7F9FBF" bold="true" />
@@ -13,34 +13,34 @@
     <javadocLink color="#3F3FBF" />
     <javadocTag color="#7F9FBF" bold="true" />
     <javadocKeyword color="#7F7F9F" />
-    <class color="#0C0C0C" />
-    <interface color="#0C0C0C" />
-    <method color="#0C0C0C" bold="false" />
-    <methodDeclaration color="#2E3436" bold="true" italic="false" />
-    <bracket color="#2E3436" />
+    <class color="#1E1E1E" />
+    <interface color="#1E1E1E" />
+    <method color="#1E1E1E" bold="false" />
+    <methodDeclaration color="#1E1E1E" bold="true" italic="false" />
+    <bracket color="#1E1E1E" />
     <number color="#C70063" />
     <string color="#006D00" bold="false" />
-    <operator color="#333333" />
+    <operator color="#1E1E1E" />
     <keyword color="#F34F29" bold="true" />
     <annotation color="#646464" />
-    <staticMethod color="#2E3436" italic="true" />
+    <staticMethod color="#1E1E1E" italic="true" />
     <localVariable color="#6A3E3E" />
     <localVariableDeclaration color="#6A3E3E" />
     <field color="#0000C0" />
     <staticField color="#0000C0" italic="true" />
     <staticFinalField color="#0000C0" bold="true" italic="true" />
-    <deprecatedMember color="#000000" underline="false" strikethrough="true" />
-    <enum color="#000000" />
-    <inheritedMethod color="#2E3436" />
-    <abstractMethod color="#2E3436" />
+    <deprecatedMember color="#1E1E1E" underline="false" strikethrough="true" />
+    <enum color="#1E1E1E" />
+    <inheritedMethod color="#1E1E1E" />
+    <abstractMethod color="#1E1E1E" />
     <parameterVariable color="#6A3E3E" />
-    <typeArgument color="#333333" />
-    <typeParameter color="#333333" />
+    <typeArgument color="#1E1E1E" />
+    <typeParameter color="#1E1E1E" />
     <constant color="#0000C0" bold="false" />
     <background color="#FFFFFF" />
-    <currentLine color="#E8F2FE" />
-    <foreground color="#333333" />
+    <currentLine color="#E8E8E8" />
+    <foreground color="#1E1E1E" />
     <lineNumber color="#666666" />
-    <selectionBackground color="#EFEFFF" />
-    <selectionForeground color="#000066" />
+    <selectionBackground color="#0078D7" />
+    <selectionForeground color="#EFEFFF" />
 </colorTheme>
