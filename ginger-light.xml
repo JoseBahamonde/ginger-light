@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<colorTheme id="51805" name="Ginger light" modified="2017-12-29 09:32:02" author="Jose Bahamonde Cordeiro">
-    <searchResultIndication color="#0078D7" />
+<colorTheme id="51805" name="Ginger light" modified="2018-10-23 14:37:28" author="Jose Bahamonde Cordeiro">
+    <searchResultIndication color="#FFEFCD" />
     <filteredSearchResultIndication color="#FFFDD0" />
     <occurrenceIndication color="#D4D4D4" />
     <writeOccurrenceIndication color="#F0D8A8" />
     <findScope color="#B9B0B4" />
-    <sourceHoverBackground color="#FFFDDD" />
+    <sourceHoverBackground color="#FFEFCD" />
     <singleLineComment color="#909090" />
     <multiLineComment color="#909090" />
     <commentTaskTag color="#7F9FBF" bold="true" />
-    <javadoc color="#3F5FBF" />
+    <javadoc color="#61A3BF" />
     <javadocLink color="#3F3FBF" />
     <javadocTag color="#7F9FBF" bold="true" />
     <javadocKeyword color="#7F7F9F" />
-    <class color="#1E1E1E" />
-    <interface color="#1E1E1E" />
-    <method color="#1E1E1E" bold="false" />
-    <methodDeclaration color="#1E1E1E" bold="true" italic="false" />
+    <class color="#297A4A" bold="false" />
+    <interface color="#297A4A" bold="false" />
+    <method color="#3C3C3C" bold="false" />
+    <methodDeclaration color="#3C3C3C" bold="true" italic="false" />
     <bracket color="#1E1E1E" />
     <number color="#C70063" />
-    <string color="#006D00" bold="false" />
-    <operator color="#1E1E1E" />
+    <string color="#CB710A" bold="false" />
+    <operator color="#646464" bold="true" italic="false" underline="false" strikethrough="false" />
     <keyword color="#F34F29" bold="true" />
     <annotation color="#646464" />
     <staticMethod color="#1E1E1E" italic="true" />
-    <localVariable color="#6A3E3E" />
-    <localVariableDeclaration color="#6A3E3E" />
-    <field color="#0000C0" />
-    <staticField color="#0000C0" italic="true" />
-    <staticFinalField color="#0000C0" bold="true" italic="true" />
+    <localVariable color="#9D6262" />
+    <localVariableDeclaration color="#9D6262" bold="true" italic="false" underline="false" strikethrough="false" />
+    <field color="#2A4DA3" />
+    <staticField color="#2A4DA3" italic="true" />
+    <staticFinalField color="#2A4DA3" bold="true" italic="true" />
     <deprecatedMember color="#1E1E1E" underline="false" strikethrough="true" />
-    <enum color="#1E1E1E" />
+    <enum color="#297A4A" bold="false" />
     <inheritedMethod color="#1E1E1E" />
     <abstractMethod color="#1E1E1E" />
-    <parameterVariable color="#6A3E3E" />
-    <typeArgument color="#1E1E1E" />
-    <typeParameter color="#1E1E1E" />
-    <constant color="#0000C0" bold="false" />
-    <background color="#FFFFFF" />
+    <parameterVariable color="#9D6262" />
+    <typeArgument color="#4C996B" />
+    <typeParameter color="#4C996B" />
+    <constant color="#2A4DA3" bold="true" />
+    <background color="#FFFDFC" />
     <currentLine color="#E8E8E8" />
     <foreground color="#1E1E1E" />
-    <lineNumber color="#666666" />
+    <lineNumber color="#A0847D" />
     <selectionBackground color="#0078D7" />
     <selectionForeground color="#EFEFFF" />
 </colorTheme>
